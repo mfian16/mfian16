@@ -15,7 +15,7 @@ Fresh Graduate in Informatics with experience designing and building web applica
 - 🎓 Fresh Graduate S1 Informatika — Universitas Wijaya Kusuma Surabaya
 - 💻 Interested in Web Development, Backend Development, and Business Software Solutions
 - 🔧 Experienced in Laravel, CodeIgniter, Django, REST API Integration, MySQL, PostgreSQL
-- 🧠 Final thesis in Computer Vision (YOLO vs Haar Cascade Face Detection)
+- 🧠 Final thesis in Computer Vision: Multi-pose Face Detection Comparison using YOLO and Haar Cascade Classifier
 - 🌱 Currently open to opportunities as **Web Developer / IT Programmer / Backend Developer**
 
 ---
@@ -40,8 +40,6 @@ Fresh Graduate in Informatics with experience designing and building web applica
 **Database**
 - MySQL
 - PostgreSQL
-- SQL Server
-- Oracle
 
 **Tools**
 - Git
