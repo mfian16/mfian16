@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Muhammad Fiqih Irfiansyah 👋</h1>
 
 <p align="center">
-  Web Developer | IT Programmer
+  Junior Web Developer | IT Programmer
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ Fresh Graduate in Informatics with experience designing and building web applica
 - 🔧 Experienced in Laravel, React.js, CodeIgniter 4, Django, REST API, MySQL, and PostgreSQL
 - 🧩 Familiar with CRUD, authentication, dashboard, reports, API integration, database management, debugging, and project documentation
 - 🧠 Final thesis in Computer Vision: Multi-pose Face Detection Comparison using YOLO and Haar Cascade Classifier
-- 🌱 Currently open to opportunities as **Junior Web Developer / IT Programmer / Junior Backend Developer**
+- 🌱 Currently open to opportunities as **Junior Web Developer / IT Programmer**
 
 ---
 
